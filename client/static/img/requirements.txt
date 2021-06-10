@@ -1,7 +1,7 @@
 beautifulsoup4==4.8.2
 certifi==2019.11.28
 chardet==3.0.4
-Django==2.2.5
+Django==2.2.24
 idna==2.8
 pytz==2019.2
 requests==2.22.0
